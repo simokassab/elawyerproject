@@ -1,0 +1,4 @@
+[30-Sep-2016 18:42:10 GMT] PHP Notice:  Undefined property: upload::$to in /home/elawyer1/public_html/freichat_techoffice/client/plugins/upload/upload.php on line 210
+[30-Sep-2016 18:42:10 GMT] PHP Notice:  Undefined property: upload::$file_real_name in /home/elawyer1/public_html/freichat_techoffice/client/plugins/upload/upload.php on line 212
+[30-Sep-2016 18:42:11 GMT] PHP Notice:  Undefined property: upload::$to in /home/elawyer1/public_html/freichat_techoffice/client/plugins/upload/upload.php on line 210
+[30-Sep-2016 18:42:11 GMT] PHP Notice:  Undefined property: upload::$file_real_name in /home/elawyer1/public_html/freichat_techoffice/client/plugins/upload/upload.php on line 212

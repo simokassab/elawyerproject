@@ -1,0 +1,23 @@
+.icon-16{
+	height: 16px;
+	width: 16px;
+	float: left;
+	margin-right: 5px;
+}
+.icon-16.icon-folder{ background-image: url('./icons/16/icon-folder.png'); }
+.icon-16.icon-file{ background-image: url('./icons/16/icon-file.png'); }
+.icon-16.icon-trash{ background-image: url('./icons/16/icon-trash.png'); }
+.icon-16.icon-txt{ background-image: url('./icons/16/icon-txt.png'); }
+
+/*.icon-favoris{background-image: url('icons/favoris.jpg');}
+.icon-partager{background-image: url('icons/partager.jpg');}
+
+.icon-contact{background-image: url('icons/contact.jpg');}
+.icon-docx{background-image: url('icons/docx.jpg');}
+.icon-jpg{background-image: url('icons/jpg.jpg');}
+.icon-pdf{background-image: url('icons/pdf.jpg');}
+.icon-png{background-image: url('icons/png.jpg');}
+.icon-pptx{background-image: url('icons/pptx.jpg');}
+.icon-psd{background-image: url('icons/psd.jpg');}
+.icon-pub{background-image: url('icons/pub.jpg');}
+.icon-xlsx{background-image: url('icons/xlsx.jpg');}*/

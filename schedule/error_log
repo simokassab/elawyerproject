@@ -1,0 +1,2 @@
+[29-Oct-2016 22:46:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'elawyer_' in /usr/local/apache/htdocs/elawyer/config.php on line 24
+[30-Nov-2016 21:06:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'elawyer_' in /usr/local/apache/htdocs/elawyer/config.php on line 24

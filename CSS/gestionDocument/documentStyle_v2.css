@@ -1,0 +1,335 @@
+#choix select , #choix input, #choix textarea{
+    -ms-box-sizing:content-box;
+    -moz-box-sizing:content-box;
+    box-sizing:content-box;
+    -webkit-box-sizing:content-box; 
+    width : 220px;
+    border : 1px solid #ccc;
+}
+#choix td {
+    padding : 5px;
+}
+#choix td:nth-child(odd){
+    width : 150px;
+}
+.container-left ul {
+    color : #777;
+    font-weight:bold;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom : 0.5em;
+    margin-top : 0.5em;
+    max-height : 300px;
+    overflow:auto;
+}
+/*.container-left ul li p {
+    position:relative;
+    bottom:30px;
+    left:0px;
+    visibility:hidden;
+}*/
+.container-left ul li{
+    height : 1.5em;
+    margin : 0.3em;
+    cursor: pointer;
+    border-radius: 5%;
+}
+.container-left ul li img{
+    height : 0.9em;
+    float : right;
+}
+.container-left ul li .listHelp{
+	display:none;
+}
+
+.container-left ul li .listHelp-hover{
+	display: block;
+	height : 1em;
+	font-size : 8.5pt;
+	border : 1px solid #666666;
+	color : #6a6a6a;
+	background-image:-moz-linear-gradient(#ffffff, #dedede);
+	background-image:-webkit-linear-gradient(#ffffff, #eeeeee);
+	background-image:-o-linear-gradient(#ffffff, #eeeeee);
+	background-image:linear-gradient(#ffffff, #eeeeee);
+	padding: 3px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	z-index: 150;
+	border-radius:2px;
+}
+#newPage { 
+    color : #777;
+    line-height : 40px;
+}
+#newPage:hover{
+    color : #000;
+}
+#newPage strong{
+    font-size: 1.2em;
+}
+#newPage b {
+    font-weight: bold;
+
+}
+.contenu-modele {
+    background-color : #F3F3F3;
+	width : 760px;
+	margin : auto;
+}
+
+.contenu-modele .actionZone{
+    text-align : right;
+}
+.contenu-modele .actionZone span:last-child{
+    display : inline-block;
+    cursor: pointer;
+}
+.contenu-modele .actionZone span.pagination{
+    float:left;
+    position : relative;
+    top : 22px;
+    left : 5px;
+    z-index : 99;
+}
+
+.cke_reset_all textarea, .cke_reset_all input[type="text"], .cke_reset_all input[type="password"]{
+    height : initial;
+}
+
+.contenu-modele .cke_editable p, 
+.contenu-modele .cke_editable h1,
+.contenu-modele .cke_editable h2,
+.contenu-modele .cke_editable h3,
+.contenu-modele .cke_editable h4,
+.contenu-modele .cke_editable h5,
+.contenu-modele .cke_editable h6,
+.contenu-modele .cke_editable address,
+.contenu-modele .cke_editable input,
+.contenu-modele .cke_editable table{
+
+    background-image : initial;
+    padding: initial; 
+    color: initial; 
+    overflow: auto; 
+    line-height: initial; 
+    background: initial;
+    border-color: initial;
+    border-radius: initial;
+    border-style: initial;
+    border-width: initial;
+    font-family: initial;
+    border-collapse : initial;
+    background-image : initial;
+    text-transform: initial;
+    font-weight: initial;
+    margin: 0px auto;
+}
+
+.contenu-modele .cke_editable table tr {
+	border-bottom : initial;
+}
+
+.contenu-modele .cke_editable p{
+    font-size : 10pt;
+    font-family :  "Arial",sans-serif;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+    .contenu-modele .cke_editable p, 
+    .contenu-modele .cke_editable h1,
+    .contenu-modele .cke_editable h2,
+    .contenu-modele .cke_editable h3,
+    .contenu-modele .cke_editable h4,
+    .contenu-modele .cke_editable h5,
+    .contenu-modele .cke_editable input,
+    .contenu-modele .cke_editable table{
+        background-image : none;
+        overflow: auto; 
+        line-height: none;
+        background: none;
+        background-image : none;
+    }
+}
+
+.contenu-modele > .cke_editable{
+    background-color : #FFF;
+    border:2px solid #B6B6B6;
+    /*min-height : 28.8396cm;*/
+	min-height : 3cm;
+    margin : 0px;
+    padding-left : 76px;
+    padding-right : 76px;
+}
+.contenu-modele > .cke_editable > .cke_editable{
+    min-height : 76px;
+}
+.contenu-modele .cke_editable span,
+.contenu-modele .cke_editable strong,
+.contenu-modele .cke_editable em,
+.contenu-modele .cke_editable u,
+.contenu-modele .cke_editable s,
+.contenu-modele .cke_editable sub,
+.contenu-modele .cke_editable sup{
+    font-family: inherit;
+}
+body table[id^="ckeCheckBox"]{
+    height : 20px;
+    background-color: #ccc;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width : 600px;
+}
+
+.contenu-modele .cke_editable strong {
+	font-weight:bold;
+}
+
+.contenu-modele .cke_editable em {
+	font-style: italic;
+}
+
+.contenu-modele .cke_editable u {
+	text-decoration: underline;
+}
+
+.contenu-modele .cke_editable s {
+	text-decoration: line-through;
+}
+
+
+h1 #buttonAction{
+    float : right;
+    height: 17px;
+}
+h1 #buttonAction a{
+	color: #fff;
+    font-size: 18px;
+    margin : 0px 5px;
+}
+
+#divPopValid {
+    height : 40px;
+    padding: 0px 40px;
+	margin : auto;
+}
+#divPopValid input {
+    float : right;
+}
+#savetechofficeDrivePop label,
+#savetechofficeDrivePop input,
+#savetechofficeDrivePop select,
+#savetechofficeDrivePop label{
+    -ms-box-sizing:content-box;
+    -moz-box-sizing:content-box;
+    box-sizing:content-box;
+    -webkit-box-sizing:content-box;
+    height : 15px;
+    width : 180px;
+    display:inline-block;
+	margin : 5px 0px;
+}
+#savetechofficeDrivePop #docExtension{
+    width : 70px;
+}
+#savetechofficeDrivePop #lockDocName{
+    display : inline-block;
+    float : right;
+}
+#savetechofficeDrivePop #lockDocName:hover{
+    cursor: pointer;
+}
+#savetechofficeDrivePop button[type='button'] {
+	float : right;
+}
+#waitingGenerationPop {
+	text-align : center;
+}
+.waitingGenerationPop .ui-dialog-titlebar-close {
+  display: none;
+}
+
+.wrapper-droite-middle{
+	float : none !important;
+	margin : auto !important;
+	width : 960px !important;
+}
+
+.wrapper-full-page-middle{
+	width : 960px !important;
+}
+
+.cke_combopanel__font {
+	width : 200px !important;
+}
+
+.cke_combopanel__fontsize{
+	width : 150px !important;
+}
+
+.v_select{
+	color: #fff;
+}
+
+#span_version > span{
+	cursor: pointer;
+}
+#span_version > span:hover{
+	border-bottom: 3px solid #fff;
+}
+
+/****************************
+	    Balises Dalloz
+*****************************/
+.itemBalise{
+	background-color : #FFF799;
+	box-shadow : 0 0 0 1px #FFD940 inset;
+	cursor: pointer;
+	color: #000000;
+	padding: 0 5px;
+}
+.item_vert{
+	background-color : #e4ffe5 !important;
+	box-shadow : 0 0 0 1px #78A419 inset !important;
+}
+.item_disabled{
+	color : #ddd !important;
+	background-color : #FFFFFF !important;
+	box-shadow : 0 0 0 0 !important;
+}
+.item_bleu{
+	background-color : #e9effc !important;
+	box-shadow : 0 0 0 1px #77ABD6 inset !important;
+}
+.item_vert_obs{
+	background-color : #e4ffe5 !important;
+	box-shadow : 0 0 0 0 !important;
+}
+.span_obs{
+	display: inline-block;
+	box-shadow : 0 0 0 0 !important;
+	cursor: initial;
+}
+
+.valideDalloz{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 16px;
+}
+.baliseGen{
+	background-color : #FFF799;
+	box-shadow : 0 0 0 1px #FFD940 inset;
+	cursor: pointer;
+	color: #000000;
+	padding: 0 5px;
+}
+
+.hr_page{
+	position: absolute;
+	margin: 0px;
+	margin-top: 1px;
+	width: 737px;
+	color: red !important;
+	z-index: 99;
+	text-align: center;
+	font-weight: bold;
+}

@@ -1,0 +1,20 @@
+input#autocomplete{width:100%;text-align:left;padding-left:10px;margin:10px 0 5px 0;}
+.autocomplete-suggestions { border: 1px solid #999; background: #FFF; cursor: default; overflow: auto; }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: normal; color: #9933cc; }
+
+.ui-autocomplete-category {
+    font-weight: bold;
+	font-size:14px;
+    padding: .2em .4em;
+    margin: .8em 0 .2em;
+    line-height: 20px;
+	border-bottom: 1px solid #ccc;
+}
+.ui-autocomplete {
+    max-height: 250px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+ }

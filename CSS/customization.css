@@ -1,0 +1,16 @@
+  #groove-feedback #groove-button, #groove-feedback #gw-footer {
+    background-color: #1D1D1D;
+  }
+
+  #groove-feedback #groove-button #gw-header, #groove-feedback #gw-footer a {
+    color: #ffffff;
+  }
+
+  #groove-feedback #groove-button #gw-header-content {
+    background-image: url('https://techofficeavocats.groovehq.com/widgets/e9fe2c6b-ed33-4af2-a2a5-571040330c92/ticket/arrow_up.png') !important;
+  }
+
+  #groove-feedback.opened #groove-button #gw-header-content {
+    background-image: url('https://techofficeavocats.groovehq.com/widgets/e9fe2c6b-ed33-4af2-a2a5-571040330c92/ticket/arrow_down.png') !important;
+  }
+

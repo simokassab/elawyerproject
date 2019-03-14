@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- 1. Make sure UTF-8 encoding is specified -->
+        <meta charset="utf-8">
+        <title>E Lawyer</title>
+
+        <!-- 2. Include CSS -->
+        <link type="text/css" rel="stylesheet" href="css/jquery.localizationTool.css">
+
+    </head>
+    <body>
+				<div id="selectLanguageDropdown" style="width:80px;" class="localizationTool"></div>
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                     <!-- 3. Have some content to be translated -->
+                    <h1>الوصول السريع</h1>
+                    <h1>This is a simple test</h1>
+                    <h2>view source to see a step-by-step guide</h2>
+                    <h3 class="subsubtitle">hopefully should be simple enough</h3>
+
+                    <!-- 4. Markup for the language selection tool (this is where the localization widget will appear) -->
+
+                    <!-- ... just some more content -->
+                    <p id="welcomeText">Welcome! the dropdown should go above this text!</p>
+                    <input type="text" placeholder="test placeholder"></input>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- 5. Add jQuery -->
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+        <!-- 6. Add localizationTool.js after jQuery -->
+        <script src="js/jquery.localizationTool.js"></script>
+
+        <!-- 7. setup the Localization Tool! -->
+        <script type="text/javascript" src="js/lang.js"></script>
+        
+    </body>
+</html>

@@ -1,0 +1,125 @@
+
+/*-----------------------------------------------*
+                Titres et textes
+ *-----------------------------------------------*/
+
+h1, h2, div#displayPannel{
+    background: #6d78cd;
+}
+#menu ul li a.active {
+    color: #6d78cd;
+}
+.menu-dossier ul li a.active {
+    color: #6d78cd;
+}
+.ui-widget-header{
+    background: #6d78cd;
+}
+
+/*-----------------------------------------------*
+                    Icons 32
+ *-----------------------------------------------*/
+
+.calendar-32.active{
+    background-image: url('img/icons/32/active/1/calendar.png');
+}
+.charts-32.active{
+    background-image: url('img/icons/32/active/1/charts.png');
+}
+.chrono-32.active{
+    background-image: url('img/icons/32/active/1/chrono.png');
+}
+.data-32.active{
+    background-image: url('img/icons/32/active/1/data.png');
+}
+.email-32.active{
+    background-image: url('img/icons/32/active/1/email.png');
+}
+.file-32.active{
+    background-image: url('img/icons/32/active/1/file.png');
+}
+.finance-32.active{
+    background-image: url('img/icons/32/active/1/finance.png');
+}
+.forms-32.active{
+    background-image: url('img/icons/32/active/1/forms.png');
+}
+.users-32.active{
+    background-image: url('img/icons/32/active/1/users.png');
+}
+.xls-32.active{
+    background-image: url('img/icons/32/active/1/xls.png');
+}
+
+/*-----------------------------------------------*
+                    Icons 16
+ *-----------------------------------------------*/
+
+.calendar-16.active{
+    background-image: url('img/icons/16/active/1/calendar.png');
+}
+.charts-16.active{
+    background-image: url('img/icons/16/active/1/charts.png');
+}
+.chrono-16.active{
+    background-image: url('img/icons/16/active/1/chrono.png');
+}
+.data-16.active{
+    background-image: url('img/icons/16/active/1/data.png');
+}
+.edit-16.active{
+    background-image: url('img/icons/16/active/1/edit.png');
+}
+.email-16.active{
+    background-image: url('img/icons/16/active/1/email.png');
+}
+.file-16.active{
+    background-image: url('img/icons/16/active/1/file.png');
+}
+.finance-16.active{
+    background-image: url('img/icons/16/active/1/finance.png');
+}
+.forms-16.active{
+    background-image: url('img/icons/16/active/1/forms.png');
+}
+.info-16.active{
+    background-image: url('img/icons/16/active/1/info.png');
+}
+.logout-16.active{
+    background-image: url('img/icons/16/active/1/logout.png');
+}
+.profile-16.active{
+    background-image: url('img/icons/16/active/1/profile.png');
+}
+.search-16.active{
+    background-image: url('img/icons/16/active/1/search.png');
+}
+.user-16.active{
+    background-image: url('img/icons/16/active/1/user.png');
+}
+.xls-16.active{
+    background-image: url('img/icons/16/active/1/xls.png');
+}
+.tache-16.active{
+    background-image: url('img/icons/16/active/1/tache.png');
+}
+
+/*-----------------------------------------------*
+                 Icons tableau
+ *-----------------------------------------------*/
+
+.container-left .tableau-simple .facture tr td.active i {
+    color: #6d78cd;
+}
+
+/*-----------------------------------------------*
+                     Boutons
+ *-----------------------------------------------*/
+ 
+.button-xls{
+    background: url('img/icons/16/active/1/xls.png') no-repeat center;
+}
+/*-----------------------------------------------*
+                 Fusion de Documents
+ *-----------------------------------------------*/
+ 

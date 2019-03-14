@@ -1,0 +1,673 @@
+[24-Oct-2016 11:22:41 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 14:23:05 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:23:05 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:23:05 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:23:05 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:23:49 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:23:49 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:23:49 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:23:49 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:23:56 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:23:56 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:23:56 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:23:56 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:37:21 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:21 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:26 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:26 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:31 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:31 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:44 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:44 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:52 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:37:52 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 14:38:03 Asia/Kuwait] PHP Fatal error:  Call to undefined function getAllCustomers() in /usr/local/apache/htdocs/elawyer/underheader.php on line 5
+[24-Oct-2016 11:38:29 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:38:29 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:38:36 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:38:36 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:38:48 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:38:48 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:39:23 UTC] PHP Warning:  require(/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 11:39:23 UTC] PHP Fatal error:  require(): Failed opening required '/usr/local/apache/htdocs/elawyer/freichat_techofficehardcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/index.php on line 39
+[24-Oct-2016 14:39:58 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:39:58 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:39:58 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:39:58 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:40:38 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 11:43:04 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 14:43:14 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:43:14 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:43:14 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:43:14 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:43:26 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 14:43:52 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:43:52 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:43:52 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:43:52 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:47:03 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 11:47:27 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 14:47:36 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:47:36 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:47:36 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:47:36 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:48:34 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:48:34 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:48:34 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:48:34 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:50:19 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 11:50:24 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 11:51:05 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 14:51:54 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:51:54 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:51:54 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:51:54 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:54:19 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:54:19 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:54:19 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:54:19 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:54:32 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:54:32 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:54:32 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:54:32 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:56:12 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:56:12 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:56:12 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:56:12 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:56:54 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:56:54 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 11:56:54 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:56:54 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:57:05 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 11:57:16 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 11:57:20 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 14:57:24 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:57:24 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:57:24 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:57:24 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:57:40 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:57:40 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:57:40 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:57:40 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 11:58:53 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 14:58:57 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:58:57 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 14:58:57 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 14:58:57 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 12:03:39 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 15:03:47 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:03:47 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:03:47 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:03:47 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 12:08:59 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 15:09:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:09:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:09:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:09:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 12:09:50 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 15:09:55 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:09:55 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:09:55 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:09:55 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:10:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:10:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:10:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:10:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 12:13:51 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 15:13:59 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:13:59 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:13:59 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:13:59 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:14:04 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:14:04 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:14:04 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:14:04 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 12:15:05 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 15:15:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:15:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:15:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:15:09 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:15:35 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:15:35 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[24-Oct-2016 15:15:35 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 15:15:35 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[24-Oct-2016 12:38:57 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[24-Oct-2016 13:01:14 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 09:29:46 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 09:29:58 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 09:30:14 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 09:31:44 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 09:35:27 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 09:38:18 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 12:38:27 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 12:38:27 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 12:38:27 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 12:38:27 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 12:45:02 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 12:45:02 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 12:45:02 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 12:45:02 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 09:45:14 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 09:45:14 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 09:45:14 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 09:45:14 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 09:45:16 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 09:45:16 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 09:45:16 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 09:45:16 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 09:47:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /usr/local/apache/htdocs/elawyer/cases/index.php on line 34
+[25-Oct-2016 09:48:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /usr/local/apache/htdocs/elawyer/cases/index.php on line 34
+[25-Oct-2016 09:49:09 UTC] PHP Warning:  include(../constants.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/cases/index.php on line 4
+[25-Oct-2016 09:49:09 UTC] PHP Warning:  include(): Failed opening '../constants.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/cases/index.php on line 4
+[25-Oct-2016 09:49:09 UTC] PHP Warning:  require_once(../PHPWord/PHPWord.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/cases/index.php on line 5
+[25-Oct-2016 09:49:09 UTC] PHP Fatal error:  require_once(): Failed opening required '../PHPWord/PHPWord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/cases/index.php on line 5
+[25-Oct-2016 09:50:24 UTC] PHP Warning:  require_once(../PHPWord/PHPWord.php): failed to open stream: No such file or directory in /usr/local/apache/htdocs/elawyer/cases/index.php on line 4
+[25-Oct-2016 09:50:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../PHPWord/PHPWord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /usr/local/apache/htdocs/elawyer/cases/index.php on line 4
+[25-Oct-2016 09:51:35 UTC] PHP Fatal error:  Cannot redeclare makeDir() (previously declared in /usr/local/apache/htdocs/elawyer/functions/global.php:5) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 8
+[25-Oct-2016 09:56:05 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 10:33:55 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 10:33:59 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 14:52:00 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 22:43:09 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 22:43:30 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 22:43:37 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 22:56:52 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 23:06:24 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[25-Oct-2016 23:07:20 UTC] PHP Warning:  Illegal string offset 'startdate' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 301
+[25-Oct-2016 23:07:20 UTC] PHP Warning:  Illegal string offset 'enddate' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 304
+[25-Oct-2016 23:07:20 UTC] PHP Warning:  Illegal string offset 'mtype' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 307
+[25-Oct-2016 23:07:20 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 310
+[25-Oct-2016 23:07:20 UTC] PHP Warning:  Illegal string offset 'comments' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 313
+[25-Oct-2016 23:07:20 UTC] PHP Warning:  Illegal string offset 'priority' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 316
+[25-Oct-2016 23:07:20 UTC] PHP Warning:  Illegal string offset 'status' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 320
+[25-Oct-2016 23:07:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /usr/local/apache/htdocs/elawyer/contractCase.php:38) in /usr/local/apache/htdocs/elawyer/contractCase.php on line 39
+[25-Oct-2016 23:08:47 UTC] PHP Warning:  Illegal string offset 'startdate' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 301
+[25-Oct-2016 23:08:47 UTC] PHP Warning:  Illegal string offset 'enddate' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 304
+[25-Oct-2016 23:08:47 UTC] PHP Warning:  Illegal string offset 'mtype' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 307
+[25-Oct-2016 23:08:47 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 310
+[25-Oct-2016 23:08:47 UTC] PHP Warning:  Illegal string offset 'comments' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 313
+[25-Oct-2016 23:08:47 UTC] PHP Warning:  Illegal string offset 'priority' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 316
+[25-Oct-2016 23:08:47 UTC] PHP Warning:  Illegal string offset 'status' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 320
+[25-Oct-2016 23:08:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /usr/local/apache/htdocs/elawyer/contractCase.php:1) in /usr/local/apache/htdocs/elawyer/contractCase.php on line 2
+[25-Oct-2016 23:09:44 UTC] PHP Warning:  Illegal string offset 'startdate' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 301
+[25-Oct-2016 23:09:44 UTC] PHP Warning:  Illegal string offset 'enddate' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 304
+[25-Oct-2016 23:09:44 UTC] PHP Warning:  Illegal string offset 'mtype' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 307
+[25-Oct-2016 23:09:44 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 310
+[25-Oct-2016 23:09:44 UTC] PHP Warning:  Illegal string offset 'comments' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 313
+[25-Oct-2016 23:09:44 UTC] PHP Warning:  Illegal string offset 'priority' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 316
+[25-Oct-2016 23:09:44 UTC] PHP Warning:  Illegal string offset 'status' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 320
+[25-Oct-2016 23:09:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /usr/local/apache/htdocs/elawyer/contractCase.php:1) in /usr/local/apache/htdocs/elawyer/contractCase.php on line 3
+[25-Oct-2016 23:09:56 UTC] PHP Warning:  Illegal string offset 'startdate' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 301
+[25-Oct-2016 23:09:56 UTC] PHP Warning:  Illegal string offset 'enddate' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 304
+[25-Oct-2016 23:09:56 UTC] PHP Warning:  Illegal string offset 'mtype' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 307
+[25-Oct-2016 23:09:56 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 310
+[25-Oct-2016 23:09:56 UTC] PHP Warning:  Illegal string offset 'comments' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 313
+[25-Oct-2016 23:09:56 UTC] PHP Warning:  Illegal string offset 'priority' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 316
+[25-Oct-2016 23:09:56 UTC] PHP Warning:  Illegal string offset 'status' in /usr/local/apache/htdocs/elawyer/viewCases.php on line 320
+[25-Oct-2016 23:10:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /usr/local/apache/htdocs/elawyer/contractCase.php:1) in /usr/local/apache/htdocs/elawyer/contractCase.php on line 3
+[25-Oct-2016 23:48:47 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[26-Oct-2016 02:51:44 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[26-Oct-2016 02:51:44 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[26-Oct-2016 02:51:44 Asia/Kuwait] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[26-Oct-2016 02:51:44 Asia/Kuwait] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 23:51:47 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 23:51:47 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 23:51:47 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 23:51:47 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 23:51:52 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 23:51:52 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/addEventModal.php on line 31
+[25-Oct-2016 23:51:52 UTC] PHP Warning:  Illegal string offset 'ID' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[25-Oct-2016 23:51:52 UTC] PHP Warning:  Illegal string offset 'subject' in /usr/local/apache/htdocs/elawyer/viewEventModal.php on line 46
+[27-Oct-2016 10:19:59 UTC] PHP Fatal error:  Call to undefined function connectDB($_SESSION['office']) in /usr/local/apache/htdocs/elawyer/functions/global.php on line 305
+[01-Nov-2016 10:32:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 10:32:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 13:32:30 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 54
+[01-Nov-2016 13:33:00 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 54
+[01-Nov-2016 13:33:24 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 54
+[01-Nov-2016 10:34:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 54
+[01-Nov-2016 13:34:19 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 54
+[01-Nov-2016 11:30:34 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 19:09:28 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 19:09:39 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 19:09:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 19:11:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 21:12:44 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 21:34:33 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Nov-2016 23:36:50 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 00:32:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 1584
+[02-Nov-2016 01:40:59 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 03:23:52 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 06:56:29 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 10:37:58 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 13:56:23 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 18:27:39 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 20:22:06 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:17:23 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:21:23 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:22:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'elawyer_' in /usr/local/apache/htdocs/elawyer/config.php on line 24
+[02-Nov-2016 22:23:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'elawyer_' in /usr/local/apache/htdocs/elawyer/config.php on line 24
+[02-Nov-2016 22:23:04 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:23:17 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:23:32 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:23:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:26:10 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:59:03 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 22:59:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:19:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:19:48 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:20:18 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:20:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:20:54 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:20:55 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:23:00 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:23:24 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:23:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:24:11 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:24:38 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:24:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:24:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Nov-2016 23:25:11 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 05:56:21 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 08:56:39 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 05:56:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 06:00:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 06:00:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 06:13:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 09:19:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 10:48:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 10:48:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 10:48:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[03-Nov-2016 11:36:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:36:31 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:36:47 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:38:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:39:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:40:00 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:40:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:40:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:40:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:41:31 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:41:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:41:42 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:45:44 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:45:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:46:32 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:46:42 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 11:51:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/estaff.php on line 162
+[03-Nov-2016 14:14:57 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 14:23:00 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 14:23:03 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Nov-2016 14:33:06 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Nov-2016 00:31:36 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Nov-2016 01:37:38 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Nov-2016 06:15:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Nov-2016 13:01:10 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:02:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:02:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:02:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:02:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:02:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:18:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:18:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:49:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:57:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 10:59:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:08:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:08:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:09:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:09:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:09:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 14:09:58 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:10:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:11:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:26:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:26:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:30:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 11:30:39 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Nov-2016 12:45:57 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Nov-2016 15:46:03 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[04-Nov-2016 19:18:40 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Nov-2016 22:40:04 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Nov-2016 22:40:22 UTC] PHP Fatal error:  Call to undefined function getExecutionsByCase() in /usr/local/apache/htdocs/elawyer/viewCases.php on line 11
+[05-Nov-2016 07:44:24 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 07:45:01 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 07:45:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 07:45:29 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 07:46:09 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 12:29:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 14:02:38 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 19:10:11 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 21:26:11 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Nov-2016 21:26:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 00:18:07 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 00:18:08 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 00:18:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 00:26:35 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 00:28:47 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 00:30:08 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 00:32:22 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 00:35:10 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 01:23:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 03:21:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 06:34:28 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 10:43:48 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 11:25:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'elawyer_Sorat' in /usr/local/apache/htdocs/elawyer/config.php on line 24
+[06-Nov-2016 11:25:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'elawyer_Sorat' in /usr/local/apache/htdocs/elawyer/config.php on line 24
+[06-Nov-2016 11:26:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'elawyer_Sorat' in /usr/local/apache/htdocs/elawyer/config.php on line 24
+[06-Nov-2016 11:27:35 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 11:28:42 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 11:29:28 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 19:42:00 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 20:38:42 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 23:41:57 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 23:44:01 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 23:44:09 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 23:44:21 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Nov-2016 23:44:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[07-Nov-2016 08:18:58 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[07-Nov-2016 11:26:40 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[07-Nov-2016 13:38:44 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[07-Nov-2016 22:08:39 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[08-Nov-2016 05:59:05 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[08-Nov-2016 15:29:06 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[08-Nov-2016 22:53:40 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[09-Nov-2016 09:05:35 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[09-Nov-2016 09:13:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[09-Nov-2016 09:13:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[09-Nov-2016 13:30:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[10-Nov-2016 05:43:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[10-Nov-2016 12:05:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[10-Nov-2016 15:16:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[10-Nov-2016 18:54:28 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[11-Nov-2016 12:15:20 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[11-Nov-2016 21:36:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[12-Nov-2016 03:59:13 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[12-Nov-2016 05:15:22 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[12-Nov-2016 06:33:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[12-Nov-2016 21:20:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[12-Nov-2016 22:40:47 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[13-Nov-2016 13:20:03 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[13-Nov-2016 15:44:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[13-Nov-2016 15:44:57 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[14-Nov-2016 04:35:54 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[14-Nov-2016 05:57:07 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[14-Nov-2016 06:24:04 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[14-Nov-2016 13:11:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[14-Nov-2016 22:01:02 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[14-Nov-2016 22:08:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[14-Nov-2016 22:46:22 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[14-Nov-2016 23:13:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[15-Nov-2016 03:33:05 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[15-Nov-2016 11:15:34 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[15-Nov-2016 16:17:50 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 02:11:17 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 04:02:04 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 05:38:26 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 08:29:17 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 21:40:08 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 21:40:10 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 21:41:01 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 21:41:08 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 21:41:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[16-Nov-2016 21:41:32 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[18-Nov-2016 05:10:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[18-Nov-2016 07:49:14 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[18-Nov-2016 21:17:23 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[19-Nov-2016 17:07:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[20-Nov-2016 07:51:43 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[21-Nov-2016 20:04:31 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[21-Nov-2016 22:58:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[22-Nov-2016 06:42:14 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[22-Nov-2016 12:35:21 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[22-Nov-2016 12:35:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[22-Nov-2016 17:20:07 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 12:37:34 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 17:30:35 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 17:59:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 21:56:41 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:04:57 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:04:58 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:04:59 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:04:59 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:05:01 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:05:05 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:05:36 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:06:58 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:07:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:07:14 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:11:45 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:13:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:14:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:14:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[23-Nov-2016 22:31:43 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 05:21:57 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 05:43:24 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 07:08:48 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 11:49:54 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 12:08:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 15:08:48 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 15:09:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 15:11:29 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 16:12:45 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 16:18:43 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 16:24:07 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 21:30:38 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 21:30:38 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 22:50:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 22:57:03 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[24-Nov-2016 23:00:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[25-Nov-2016 15:26:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[26-Nov-2016 05:17:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[26-Nov-2016 06:22:55 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[26-Nov-2016 06:22:55 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[26-Nov-2016 08:32:09 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[26-Nov-2016 10:50:35 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[26-Nov-2016 17:04:18 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[27-Nov-2016 01:58:23 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[27-Nov-2016 06:49:34 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[27-Nov-2016 07:34:22 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[27-Nov-2016 15:59:23 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[27-Nov-2016 20:37:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[27-Nov-2016 21:19:42 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[27-Nov-2016 22:02:53 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[27-Nov-2016 23:12:08 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[28-Nov-2016 00:43:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[28-Nov-2016 13:39:34 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[28-Nov-2016 15:04:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[28-Nov-2016 18:05:30 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[28-Nov-2016 19:01:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[28-Nov-2016 22:56:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 01:29:55 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 05:03:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:28:33 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:28:34 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:29:00 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:29:00 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:37:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:37:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:37:16 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:37:22 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:44:50 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:48:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:48:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:48:34 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:48:41 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:48:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 09:49:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:05:45 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:05:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:05:53 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:05:53 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:05:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:06:04 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:06:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:06:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:06:44 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:07:00 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:07:03 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:08:43 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 10:08:50 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[29-Nov-2016 18:53:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 00:05:05 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[30-Nov-2016 00:30:21 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 02:22:43 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 05:09:29 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 06:23:44 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 15:20:47 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 18:02:35 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 18:03:29 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 18:03:40 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[30-Nov-2016 18:13:24 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 00:05:50 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/addEventModalByCase.php on line 60
+[01-Dec-2016 01:54:31 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 06:29:38 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 06:29:59 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 06:31:07 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 06:32:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 06:35:53 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 08:46:48 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 09:27:17 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 21:37:54 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[01-Dec-2016 23:08:41 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 02:39:20 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 05:14:53 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 11:49:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 11:49:36 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 11:54:39 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 11:54:50 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 12:12:55 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 12:12:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 12:13:06 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[02-Dec-2016 22:59:09 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 05:08:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 13:10:34 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 13:10:36 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 13:10:41 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 13:10:44 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 13:10:45 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 13:11:00 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 13:11:08 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 14:21:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 18:19:22 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 18:48:31 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:16:58 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:07 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:09 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:10 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:11 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:13 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:14 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:17 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:18 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:24 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:26 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:52 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:56 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:58 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:17:59 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:18:01 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:18:08 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:18:10 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:18:11 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:18:13 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:18:14 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:18:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 19:18:16 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[03-Dec-2016 21:37:58 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Dec-2016 08:10:47 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Dec-2016 19:41:40 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Dec-2016 19:41:44 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Dec-2016 19:41:47 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[04-Dec-2016 23:07:29 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 04:43:04 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 07:42:20 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 08:17:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 08:17:46 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 09:04:43 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 09:04:55 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 09:34:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 09:34:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 13:43:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 14:04:52 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 14:04:55 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 15:46:53 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[05-Dec-2016 18:41:40 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Dec-2016 04:31:20 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Dec-2016 06:08:08 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Dec-2016 07:49:14 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Dec-2016 07:51:58 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Dec-2016 07:57:24 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 306
+[06-Dec-2016 07:57:38 UTC] PHP Fatal error:  Call to undefined function getRightsByUser() in /usr/local/apache/htdocs/elawyer/header.php on line 9
+[06-Dec-2016 08:04:42 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[06-Dec-2016 08:42:26 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[06-Dec-2016 08:47:45 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[06-Dec-2016 08:47:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[06-Dec-2016 09:59:28 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[06-Dec-2016 14:10:54 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[06-Dec-2016 15:14:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[06-Dec-2016 21:06:20 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[07-Dec-2016 01:06:59 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[07-Dec-2016 03:57:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[07-Dec-2016 04:21:17 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[07-Dec-2016 04:30:02 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[07-Dec-2016 09:28:28 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[07-Dec-2016 21:37:09 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 05:33:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 06:40:04 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 08:03:09 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 08:10:30 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 08:10:33 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 08:11:36 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 08:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/estaff.php on line 162
+[08-Dec-2016 10:27:29 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 12:08:35 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[08-Dec-2016 13:44:07 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[09-Dec-2016 06:31:15 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[09-Dec-2016 07:58:31 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[09-Dec-2016 15:56:52 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[09-Dec-2016 16:00:22 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[09-Dec-2016 16:18:33 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[09-Dec-2016 17:37:14 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[10-Dec-2016 01:20:12 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[10-Dec-2016 01:20:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[10-Dec-2016 02:11:50 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[10-Dec-2016 05:35:49 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[10-Dec-2016 12:45:14 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[11-Dec-2016 07:30:36 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[11-Dec-2016 11:46:32 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[12-Dec-2016 03:11:45 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[12-Dec-2016 06:40:16 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 04:10:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 04:10:51 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 04:33:21 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:08:01 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:08:19 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:08:25 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:08:29 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:09:16 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:10:23 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:13:39 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:14:26 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:14:47 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 10:58:48 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 11:15:27 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[13-Dec-2016 21:10:31 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[14-Dec-2016 05:14:39 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[14-Dec-2016 06:14:42 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[14-Dec-2016 07:26:09 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[14-Dec-2016 13:09:59 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[14-Dec-2016 14:16:59 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[15-Dec-2016 01:21:11 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[15-Dec-2016 04:47:57 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[15-Dec-2016 10:28:37 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355
+[15-Dec-2016 10:28:38 UTC] PHP Fatal error:  Call to undefined function connectDB() in /usr/local/apache/htdocs/elawyer/functions/global.php on line 355

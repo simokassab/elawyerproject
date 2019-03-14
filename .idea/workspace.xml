@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34effd1d-b812-4851-8a8b-0bce6722d7bd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/DB/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/DB/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases.php" beforeDir="false" afterPath="$PROJECT_DIR$/cases.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/cases/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/configDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/constants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consultation/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/consultation/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/elfinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/elfinder/elfinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/files/Alsarat/22/124_تبليغ/Authorization.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/files/Alsarat/22/124_تبليغ/contract.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/files/Alsarat/22/125_تبليغ/Authorization.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/files/Alsarat/22/125_تبليغ/contract.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/files/Alsarat/22/126_تبليغ_عن_سرقة/Authorization.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/files/Alsarat/22/126_تبليغ_عن_سرقة/contract.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/files/Alsarat/26/123_سرقة_منزل/Authorization.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elfinder/files/Alsarat/26/123_سرقة_منزل/contract.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/CONTRIBUTIONS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/FreeLicense.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/SOLUTIONS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/X_logout/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/_file_send/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/_file_send/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/_file_send/mimetypes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/_send_conv/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/_send_conv/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/admin_base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/chatrooms/chatrooms/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/chatrooms/chatrooms/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/chatrooms/configuration/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/chatrooms/configuration/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/default/data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/default/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/acl/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/acl/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/additional/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/additional/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/client_side/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/client_side/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/example_ug_ids.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/magic_gpc_unset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/polling/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/polling/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/server_side/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/server_side/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/smiley.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/smilies/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/smilies/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/home/upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/CBE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/CBE_2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/DZCP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Drupal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Elgg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Etano.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/JCB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/JSocial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Jcow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Joomla.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Oxwall.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Phpbb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Phpfox.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Phpfusion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Phpvms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/SMF.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/SMF2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/Sugarcrm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/WordPress.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/drivers/se4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/images/previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/images/search.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/images/snext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/images/sprevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/jquery.jqpagination.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/paginator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/table_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/moderate_users/user_mod.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/definitions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/delete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/delete2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/exo.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/colorpicker/css/colorpicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/colorpicker/js/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/colorpicker/js/colorpicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/css/gradX.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/css/icons/file-css.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/css/icons/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/css/icons/preset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/css/icons/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/css/icons/tpnt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/css/switches.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/img/chatbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/img/chatroom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/img/chatwindow_max.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/img/chatwindow_min.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/img/chatwindow_options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/img/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/img/status_options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/js/gradX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/js/jquery.inlinecomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/js/jquery.jeditable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/lib/js/md5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/sonsieone.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/streamer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/theme_builder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/theme_lister.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/theme_maker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/theme_view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/admin_files/theme_maker/upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/bootstrap-cerulean.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/bootstrap-classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/bootstrap-classic.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/bootstrap-extend.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/bootstrap-united.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/charisma-app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/chosen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/colorbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/elfinder.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/elfinder.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/font_squada_one.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/font_squada_onea.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/fullcalendar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/fullcalendar.print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/jquery-ui-1.8.21.custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/jquery.cleditor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/jquery.iphone.toggle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/jquery.noty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/noty_theme_default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/opa-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/uniform.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/css/uploadify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/frei_images/head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ajax-loaders/ajax-loader-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ajax-loaders/ajax-loader-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ajax-loaders/ajax-loader-3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ajax-loaders/ajax-loader-4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ajax-loaders/ajax-loader-5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ajax-loaders/ajax-loader-6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ajax-loaders/ajax-loader-7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ajax-loaders/ajax-loader-8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/arrows-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/arrows-normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/bg-input-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/bg-input.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/buttons.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/cancel-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/cancel-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/chosen-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/crop.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/dialogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/error_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/icons-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/icons-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/iphone-style-checkboxes/off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/iphone-style-checkboxes/on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/iphone-style-checkboxes/slider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/iphone-style-checkboxes/slider_center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/iphone-style-checkboxes/slider_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/iphone-style-checkboxes/slider_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/loading_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-black16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-black32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-blue16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-blue32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-color16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-color32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-darkgray16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-darkgray32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-gray16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-gray32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-green16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-green32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-orange16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-orange32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-red16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-red32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-white16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/opa-icons-white32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/progress.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/qrcode136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/quicklook-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/quicklook-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/resize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/spinner-mini.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/star-half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/star-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/star-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/toolbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/toolbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/img/uploadify-cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-toggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-tour.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/bootstrap-typeahead.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/charisma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/excanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery-1.7.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.autogrow-textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.chosen.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.cleditor.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.colorbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.elfinder.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.flot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.flot.pie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.flot.resize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.flot.stack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.history.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.iphone.toggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.noty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.raty.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.uniform.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/js/jquery.uploadify-3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/check-exists.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/elfinder-connector/MySQLStorage.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/elfinder-connector/connector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/elfinder-connector/elFinder.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/elfinder-connector/elFinderConnector.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/elfinder-connector/elFinderVolumeDriver.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/elfinder-connector/elFinderVolumeLocalFileSystem.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/elfinder-connector/elFinderVolumeMySQL.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/elfinder-connector/mime.types" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/uploadify.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/administrator/misc/uploadify.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/arg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/cache/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/cache/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/cache/perm/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/cache/perm/request.001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/cache/temp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/cache/temp/temp.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/chat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/error_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/freichat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/freichat_themes/basic/edit_theme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/freichat_themes/defarg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/freichat_themes/edit_theme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/freichat_themes/freichatcss.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/freichat_themes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/about.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/angry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/cheerful.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/code.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/cool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/cry.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/ermm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/grin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/laughing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/newmsg.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/newmsg2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/shocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/silly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/soundmanager2.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/soundmanager2_debug.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/soundmanager2_flash9.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/soundmanager2_flash9_debug.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/tongue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/unsure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/w00t.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/wassat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/img/wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/combined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/combined.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery-ui-frontend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery.1.7.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery.1.8.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery.jscrollpane.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery.ui.core.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery.ui.mouse.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery.ui.slider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/jquery.ui.widget.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/js/smoothness/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jquery/user.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/jsdef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/lib/css/bootstrap-fileupload.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/lib/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/lib/js/bootstrap-fileupload.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/lib/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/mail/error_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/mail/html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/mail/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/mail/phpmailer/class.phpmailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/mail/phpmailer/class.pop3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/mail/phpmailer/class.smtp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/mail/phpmailer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/mail/sendmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/rtl/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/rtl/rtl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/save/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/save/save.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/translate/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/translate/js/jquery.translate-1.3.9.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/translate/translate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/upload/download.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/upload/error_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/upload/html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/upload/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/upload/upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/upload/upload/1477836310280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/upload/upload_mobile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/voicechat/voicechat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/voicechat/voicechat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/plugins/voicechat/voicechat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/IcoMoon.tar.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/argument.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/argument_def.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/author.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/bmid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/chatroom_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/chatroom_styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/chatroom_styles_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/arrow-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/deleteimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/loop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/mailimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/paragraph-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/paragraph-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/saveimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/smileyimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/uploadimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/videoimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/icons/volume_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/arrow-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/arrowimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/bmidimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/btopimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/busyimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/chatroom_head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/chatroom_leftpanel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/chatroom_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/chatroomimg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/closeimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/deleteimg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/deleteimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/freichatheadimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/gchatimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/groupchatimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/invisibleimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/loop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/mailimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/maximg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/minimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/newtopimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/notransimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/offlineimg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/offlineimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/onlineimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/optimg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/paragraph-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/paragraph-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/rtlimg_disabled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/rtlimg_enabled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/saveimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/smiley_chatroomimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/smileyimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/toolimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/translateimg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/uploadimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/videoimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/volume_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/images/wrench.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/profilelink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/search.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/speech.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/speech.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/basic/styles_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/lessc.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/lessify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/lessify.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/plessc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/IcoMoon.tar.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/angry55174.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/argument.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/argument_def.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/author.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/bigsmile54781.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/blush54981.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/bmid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/chatroom_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/chatroom_styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/chatroom_styles_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/cool54801.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/crying54854.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/doh55146.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/dull55062.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/evilgrin55088.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/arrow-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/deleteimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/loop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/mailimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/paragraph-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/paragraph-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/saveimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/smileyimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/uploadimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/videoimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/icons/volume_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/arrow-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/arrowimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/bmidimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/btopimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/busyimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/chatroom_head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/chatroom_leftpanel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/chatroom_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/chatroomimg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/closeimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/deleteimg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/deleteimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/freichatheadimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/gchatimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/groupchatimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/invisibleimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/loop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/mailimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/maximg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/minimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/newtopimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/notransimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/offlineimg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/offlineimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/onlineimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/optimg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/paragraph-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/paragraph-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/rtlimg_disabled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/rtlimg_enabled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/saveimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/smiley_chatroomimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/smileyimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/toolimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/translateimg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/uploadimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/videoimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/volume_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/images/wrench.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/itwasntme55198.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/lipssealed55304.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/mmm55255.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/profilelink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/sad54749.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/search.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/sleepy55036.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/sleepy55037.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/smile53890.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/smile53893.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/smile54593.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/smile54608.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/speech.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/speech.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/speechless54923.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/styles_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/sweat54888.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/tongueout54953.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/wink54827.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/wondering55006.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/worried55231.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/silver/yawn55117.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/angry55174.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/bigsmile54781.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/blush54981.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/cool54801.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/crying54854.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/doh55146.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/dull55062.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/evilgrin55088.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/itwasntme55198.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/itwasntme5519888055.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/lipssealed55304.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/lipssealed5530488046.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/lipssealed5530488063.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/mmm55255.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/sad54749.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/sleepy55036.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/sleepy55037.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/smile53890.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/smile53893.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/smile54593.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/smile54608.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/speechless54923.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/sweat54888.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/tongueout54953.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/wink54827.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/wondering55006.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/worried55231.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/client/themes/smileys/yawn55117.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/define.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/hardcode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/contents.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/css/bootstrap-classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/alegreya.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/b1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/b2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/b3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/b4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/changaone.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/double_link1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/double_link2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/exo.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/gray_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/gray_bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/logoj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/max.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/pause.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/play.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/sonsieone.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/images/user_db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ajax-loaders/ajax-loader-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ajax-loaders/ajax-loader-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ajax-loaders/ajax-loader-3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ajax-loaders/ajax-loader-4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ajax-loaders/ajax-loader-5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ajax-loaders/ajax-loader-6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ajax-loaders/ajax-loader-7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ajax-loaders/ajax-loader-8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/arrows-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/arrows-normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/bg-input-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/bg-input.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/buttons.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/cancel-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/cancel-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/chosen-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/crop.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/dialogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/error_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/icons-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/icons-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/iphone-style-checkboxes/off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/iphone-style-checkboxes/on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/iphone-style-checkboxes/slider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/iphone-style-checkboxes/slider_center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/iphone-style-checkboxes/slider_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/iphone-style-checkboxes/slider_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/loading_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/logo20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-black16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-black32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-blue16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-blue32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-color16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-color32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-darkgray16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-darkgray32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-gray16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-gray32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-green16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-green32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-orange16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-orange32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-red16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-red32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-white16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/opa-icons-white32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/progress.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/qrcode136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/quicklook-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/quicklook-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/resize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/spinner-mini.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/star-half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/star-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/star-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/toolbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/toolbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/img/uploadify-cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/info.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/install.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/install_mssql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/CBE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/CBE_2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/DZCP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Drupal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/EE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Elgg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Etano.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/JCB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/JSocial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Jcow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Joomla.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Oxwall.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Phpbb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Phpfox.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Phpfusion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Phpvms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/SMF.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/SMF2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/Sugarcrm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/WordPress.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/integ/se4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/js/rainbow-custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/mid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/smart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/smart_ajax.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/smart_avatar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/smart_integration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/smart_session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/smart_tables.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/specific.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/installation/testconnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/danish.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/dutch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/english.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/french.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/german.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/hungary.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/italian.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/portugues_brasil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/spanish.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/lang/thai.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/XC/Custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/XC/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/XC/drupal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/XC/freichatxc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/XC/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/XC/joomla.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/XC/script.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/XC/ui.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/CBE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/CBE_2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/DZCP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Drupal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Elgg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Etano.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/JCB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/JSocial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Jcow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Joomla.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Oxwall.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Phpbb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Phpfox.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Phpfusion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Phpvms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/SMF.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/SMF2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/Sugarcrm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/WordPress.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/event.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/drivers/se4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/error_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/freichat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/plugins/chatroom/chatroom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/plugins/groupchat/groupchat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/plugins/mobile/mobile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freichat_Alsarat/server/plugins/video/video.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervision_users/supervisionn.php" beforeDir="false" afterPath="$PROJECT_DIR$/supervision_users/supervisionn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/techoffice/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/techoffice/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/underheader.php" beforeDir="false" afterPath="$PROJECT_DIR$/underheader.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/elfinder/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="admin_panel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin_panel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1683" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2324" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signIn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/signIn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="135" column="100" selection-start-line="135" selection-start-column="89" selection-end-line="135" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="siginAction.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DBS/siginAction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/JS/tooltipster/package.json" />
+      <path value="$PROJECT_DIR$/JS/translation plugin/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elawyerfinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elawyerfinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elawyerfinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elawyerfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elawyerfinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elawyerfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="DBS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34effd1d-b812-4851-8a8b-0bce6722d7bd" name="Default" comment="" />
+      <created>1552558284065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552558284065</updated>
+      <workItem from="1552558286651" duration="759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="759000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/admin_panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1683" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signIn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="135" column="100" selection-start-line="135" selection-start-column="89" selection-end-line="135" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBS/siginAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

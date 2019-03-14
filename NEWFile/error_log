@@ -1,0 +1,9 @@
+[02-Nov-2016 23:13:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php on line 56
+[03-Nov-2016 02:13:32 Asia/Kuwait] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php:56) in /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php on line 78
+[02-Nov-2016 23:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php on line 56
+[02-Nov-2016 23:15:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'elawyer_' in /usr/local/apache/htdocs/elawyer/config.php on line 24
+[02-Nov-2016 23:16:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php on line 91
+[02-Nov-2016 23:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php on line 54
+[02-Nov-2016 23:18:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php on line 54
+[02-Nov-2016 23:18:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php on line 54
+[06-Nov-2016 03:35:06 Asia/Kuwait] PHP Warning:  Invalid argument supplied for foreach() in /usr/local/apache/htdocs/elawyer/NEWFile/ajax.php on line 57

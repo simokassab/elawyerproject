@@ -1,0 +1,2 @@
+[24-Oct-2016 12:09:55 GMT] PHP Fatal error:  Call to a member function rowCount() on a non-object in /usr/local/apache/htdocs/elawyer/freichat_techoffice/server/drivers/base.php on line 217
+[24-Oct-2016 12:13:59 GMT] PHP Fatal error:  Call to a member function rowCount() on a non-object in /usr/local/apache/htdocs/elawyer/freichat_techoffice/server/drivers/base.php on line 220

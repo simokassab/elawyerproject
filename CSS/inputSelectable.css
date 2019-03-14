@@ -1,0 +1,83 @@
+#techofficeDrive .inputSelectable{
+	width: 572px !important;
+	border: 1px solid #e5e5e5 !important;
+	border-radius: 3px 3px 0 0 !important;
+	position: relative !important;
+	background: #fff !important;
+}
+#techofficeDrive .inputSelectable > input{
+	background: rgba(255, 255, 255, 0) !important;
+	border: none !important;
+	outline: none !important;
+	height: 30px !important;
+	padding: 0 7px !important;
+	width: 558px !important;
+}
+#techofficeDrive .inputSelectable > div{
+	position: absolute !important;
+	margin-left: -1px !important;
+	width: 574px !important;
+	display: none;
+
+	z-index: 1 !important;
+}
+#techofficeDrive .inputSelectable > div > div{
+	margin-bottom: -1px;
+	cursor: pointer;
+	height: 48px !important;
+	background: #f9fcff !important;
+	border: 1px solid #e5e5e5 !important;
+	z-index: 1 !important;
+}
+#techofficeDrive .inputSelectable > div > div:hover{
+	background: #d5ecff !important;
+}
+#techofficeDrive .inputSelectable > span > span{
+	border: 1px solid #aaccee !important;
+	padding: 0px 3px 0 22px !important;
+	margin: 2px 3px !important;
+	font-size: 12px !important;
+	border-radius: 3px !important;
+	float: left !important;
+	background: #f9fcff !important;
+	line-height: 22px !important;
+}
+#techofficeDrive .inputSelectable > span > span:hover{
+	background: #d5ecff !important;
+}
+#techofficeDrive .inputSelectable > span > span.deleting{
+	background: #348dd3 !important;
+	border: 1px solid #348dd3 !important;
+	color: #fff !important;
+}
+#techofficeDrive .inputSelectable > span > span.deleting:hover{
+	background: #348dd3 !important;
+	border: 1px solid #348dd3 !important;
+	color: #fff !important;
+}
+#techofficeDrive .inputSelectable > span > span.error{
+	background: #ffefee !important;
+	border: 1px solid #ff7676 !important;
+}
+#techofficeDrive .inputSelectable > span > span.error:hover{
+	background: #ffcccb !important;
+}
+#techofficeDrive .inputSelectable > span > span.error.deleting{
+	background: #ea2e31 !important;
+	border: 1px solid #ea2e31 !important;
+	color: #fff !important;
+}
+#techofficeDrive .inputSelectable > span > span.error.deleting:hover{
+	background: #ea2e31 !important;
+	border: 1px solid #ea2e31 !important;
+	color: #fff !important;
+}
+#techofficeDrive .inputSelectable > span > span > img{
+	margin-left: -19px !important;
+	position: absolute !important;
+	margin-top: 2px !important;
+}
+#techofficeDrive .inputSelectable > span > span > a{
+	cursor: pointer !important;
+	margin-left: 5px !important;
+}

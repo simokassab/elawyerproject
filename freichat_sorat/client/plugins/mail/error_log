@@ -1,0 +1,1 @@
+[30-Sep-2016 17:03:16 GMT] PHP Fatal error:  Call to undefined function close() in /home/elawyer1/public_html/freichat_techoffice/client/plugins/mail/sendmail.php on line 49

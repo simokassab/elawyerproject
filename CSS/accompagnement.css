@@ -1,0 +1,404 @@
+.popup_2 > .box-accompagnement{
+	width: 770px;
+	height: 500px;
+	background-size: 100%;
+	background-color: #fff;
+	padding:0;
+}
+
+/* HEADER */
+.popup_2 > .box-accompagnement > .box-header{
+	background-color: #6c7ebb;
+	height: 50px;
+	color: #FFF;
+	padding: 0 30px;
+	text-align: center;
+	position: relative;
+}
+.box-accompagnement .box-header h1 {
+	background-color: #6c7ebb;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 28px;
+}
+.box-accompagnement .box-header .icon-question {
+	position: absolute;
+	right: 0;
+	color: #FFF;
+	margin-right: 30px;
+	font-size: 18px;
+	line-height: 50px;
+	cursor: pointer;
+	top: 0px;
+}
+
+/* HELP */
+.box-accompagnement .box-content .box-help {
+	padding: 20px;
+	border-left: 1px solid #dbdbdb;
+	border-bottom: 1px solid #dbdbdb;
+	width: 360px;
+	position: absolute;
+	z-index: 9999;
+	top: 0px;
+	right: 0px;
+	background-color: #FFF;
+	text-align: left;
+	font-size: 12px;
+	line-height: 1.5;
+	visibility: hidden;
+	-moz-box-shadow: -2px 2px 3px 0px #cfcfcf;
+	-webkit-box-shadow: -2px 2px 3px 0px #cfcfcf;
+	-o-box-shadow: -2px 2px 3px 0px #cfcfcf;
+	box-shadow: -2px 2px 3px 0px #cfcfcf;
+	-moz-transition: opacity 0.2s ease-in-out;
+	-webkit-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
+	opacity: 0;
+}
+.box-accompagnement .box-content .arrow-help { 
+	background: transparent url('./accompagnement/img/arrow-help.png?1405597831') 314px 0 no-repeat; 
+	width: 360px; 
+	height: 10px; 
+	top: -10px; 
+	right: 0px; 
+	position: absolute; 
+	visibility: hidden; 
+	z-index: 999999; 
+	opacity: 0; 
+	-moz-transition: opacity 0.2s ease-in-out; 
+	-webkit-transition: opacity 0.2s ease-in-out; 
+	transition: opacity 0.2s ease-in-out; 
+}
+.box-accompagnement .box-content .arrow-help.show { 
+	visibility: visible; 
+	opacity: 1; 
+}
+.box-accompagnement .box-content .box-help.show { 
+	visibility: visible; 
+	opacity: 1; 
+}
+
+/* PHRASE PRESENTATION */
+.box-accompagnement .box-content .etape-rappel {
+	background: transparent url('./accompagnement/img/etape.png?1405583115') 0 0 no-repeat;
+	background-size: 100%;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 28px;
+	float: left;
+	margin: 10px 20px 60px 0;
+	text-align: center;
+}
+.box-accompagnement .box-content .title-lev2 {
+	font-size: 20px;
+	line-height: 1.5em;
+	padding-left: 0px;
+	padding-bottom: 0px;
+}
+.box-accompagnement strong {
+	font-weight: bold;
+}
+/* CONTENT */
+.box-accompagnement .center {
+	text-align: center;
+}
+.box-accompagnement .box-content {
+	padding: 30px;
+	position: relative;
+}
+.box-accompagnement .box-content h1{
+	font-weight: normal;
+	background-color: #fff;
+	color: #4a4a4a;
+	font-size: 28px;
+}
+.box-accompagnement .box-content p{
+	color: #4a4a4a;
+	font-size: 14px;
+}
+.box-accompagnement .box-content iframe{
+	margin-top: 25px;
+}
+.entry-tooltip-positioner{
+	position: fixed !important;
+    left: 1068px !important;
+	top: 140px !important;
+	padding: 20px;
+	font-size: 12px;
+}
+.box-accompagnement .margin-top{
+	margin-top: 30px;
+}
+
+/* LISTES UL */
+.box-accompagnement ul {
+	padding-left: 0px;
+}
+.box-accompagnement .box-content ul li {
+	margin-bottom: 5px;
+}
+.box-accompagnement ul li {
+	display: block;
+	height: 50px;
+	list-style-type: none;
+}
+.box-accompagnement label {
+	line-height: 30px;
+	font-size: 16px;
+}
+.box-accompagnement input[type=text], .box-accompagnement input[type=password] {
+	box-shadow: none;
+	border: 1px solid #e1e1e1;
+	border-radius: 3px;
+	line-height: 30px;
+	width: 440px;
+	float: right;
+	padding: 0 8px;
+	color: #666;
+	height: 32px;
+	min-height: 32px;
+	margin: 0px;
+}
+.box-accompagnement .box-content ul.etapes li.current{
+	opacity: 1;
+	font-weight: 500;
+}
+.box-accompagnement .box-content ul.etapes li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 10px;
+	opacity: 0.4;
+	text-align: center;
+	font-size: 16px;
+}
+.box-accompagnement .box-content ul.etapes {
+	padding-left: 0;
+}
+.box-accompagnement .box-content ul.etapes li.current .icn-etape {
+	font-weight: 400;
+}
+.box-accompagnement .box-content ul.etapes li .icn-etape {
+	background: transparent url('./accompagnement/img/etape.png?1405583115') 0 0 no-repeat;
+	background-size: 100%;
+	width: 117px;
+	height: 117px;
+	line-height: 117px;
+	font-size: 24px;
+	margin-bottom: 25px;
+	margin-top: 80px;
+}
+
+/* COLONNES */
+.box-accompagnement .box-content .col-left {
+	width: 57%;
+	height: 230px;
+	overflow-y: scroll;
+	float: left;
+	text-align: center;
+	border-right: 1px solid #ebebeb;
+}
+.box-accompagnement .box-content .col-right {
+	width: 40%;
+	height: 230px;
+	overflow-y: scroll;
+	float: right;
+	text-align: center;
+	font-size: 16px;
+	padding-left: 15px;
+}
+.box-accompagnement .box-content .col-right ul li {
+	height: 40px;
+	line-height: 30px;
+	font-size: 14px;
+	text-align: left;
+}
+.box-accompagnement .box-content .col-right .btn {
+	float: right;
+}
+.box-accompagnement .box-content .col-right .btn a, .box-accompagnement .box-content .col-right .btn button {
+	margin-left: 5px;
+	padding: 8px 10px;
+}
+.box-accompagnement button.add-new.center, .box-accompagnement a.add-new.center {
+	margin-top: 80px;
+}
+.box-accompagnement button{
+	background-color: #f5f5f5;
+	border: 1px solid #e7e7e7;
+	padding: 7.5px 15px;
+	color: #7f7f7f;
+	font-size: 12px;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border 0.2s ease-in-out;
+	display: inline-block;
+	cursor: pointer;
+}
+.box-accompagnement .box-content .col-left ul li {
+	height: 42px;
+	text-align: left;
+	list-style-type: none;
+}
+.box-accompagnement .box-content .col-left input, .box-accompagnement .box-content .col-left select {
+	width: 185px;
+	margin-right: 15px;
+}
+.box-accompagnement .box-content .col-left select {
+	width: 203px;
+	margin-right: 15px;
+}
+.box-accompagnement  select {
+	box-shadow: none;
+	border: 1px solid #e1e1e1;
+	border-radius: 3px;
+	line-height: 34px;
+	width: 458px;
+	height: 34px;
+	float: right;
+	padding: 7px 8px;
+	color: #666;
+	cursor: pointer;
+}
+
+/* DOSSIER */
+.box-accompagnement  #formulaire_dossier {
+	height: 230px;
+	overflow-y: scroll;
+}
+.box-accompagnement  #intervenant_dossier {
+	height: 230px;
+	overflow-y: scroll;
+}
+.box-accompagnement .box-content ul li.ajouter button.add-new {
+	right: 0px;
+	float: right;
+	margin-left: 10px;
+}
+.box-accompagnement .box-content ul li.ajouter button.add-new:before {
+	margin: 0px;
+	line-height: 6px;
+	top: 3px;
+}
+.ui-autocomplete { 
+	position: absolute; 
+	cursor: default;
+	z-index:9999999999 !important;
+} 
+	
+/* FOOTER */
+.box-accompagnement .box-footer {
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	bottom: 0;
+	margin-bottom: 10px;
+}
+.box-accompagnement .box-footer .next{
+	float: right;
+	margin-right: 40px;
+}
+.box-accompagnement .box-footer .previous {
+	float: left;
+	margin-left: 40px;
+}
+.box-accompagnement .box-footer a, .box-accompagnement a.margin-top{
+	background-color: #f5f5f5;
+	border: 1px solid #e7e7e7;
+	padding: 3px 15px;
+	color: #7f7f7f;
+	font-size: 12px;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border 0.2s ease-in-out;
+	display: inline-block;
+}
+.box-accompagnement .box-footer a:hover, .box-accompagnement button:hover, .box-accompagnement a.margin-top:hover {
+	border: 1px solid #6c7ebb;
+	color: #6c7ebb;
+	background-color: #FFF;
+}
+.box-accompagnement .box-footer a.add, .box-accompagnement .box-footer button.add,  .box-accompagnement .box-footer button.modify {
+	margin-left: 109px;
+}
+.box-accompagnement button.ignorer, .box-accompagnement a.ignorer {
+	margin: 0 5px;
+	padding: 4px 15px 4px 15px;
+	float: right;
+}
+
+/* ICONES/IMAGES */
+@font-face { font-family: 'icotechoffice'; src: url("./accompagnement/font/icotechoffice.eot?1mki5f"); src: url("./accompagnement/font/icotechoffice.eot?#iefix1mki5f") format("embedded-opentype"), url("./accompagnement/font/icotechoffice.woff?1mki5f") format("woff"), url("./accompagnement/font/icotechoffice.ttf?1mki5f") format("truetype"), url("./accompagnement/font/icotechoffice.svg?1mki5f#icotechoffice") format("svg"); font-weight: normal; font-style: normal; }
+[class^="icon-"], [class*=" icon-"] { font-family: 'icotechoffice'; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; /* Better Font Rendering =========== */ -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+
+
+.box-accompagnement button.add-new:before, .box-accompagnement a.add-new:before {
+	font-family: 'icotechoffice';
+	content: "\f067";
+	font-size: 14px;
+	position: relative;
+	margin-right: 10px;
+	top: 2px;
+}
+.box-accompagnement button.add-new:before, .box-accompagnement a.add-new:before {
+	font-family: 'icotechoffice';
+	content: "\f067";
+	font-size: 14px;
+	position: relative;
+	margin-right: 10px;
+	top: 2px;
+}
+.box-accompagnement button.edit:before, .box-accompagnement a.edit:before {
+	font-family: 'icotechoffice';
+	content: "\f058";
+	font-size: 14px;
+	position: relative;
+}
+.box-accompagnement button.delete:before, .box-accompagnement a.delete:before {
+	font-family: 'icotechoffice';
+	content: "\e60b";
+	font-size: 14px;
+	position: relative;
+	top: 2px;
+}
+.box-accompagnement button.cancel:before, .box-accompagnement a.cancel:before {
+	font-family: 'icotechoffice';
+	content: "\e60b";
+	font-size: 14px;
+	position: relative;
+	margin-right: 10px;
+	top: 2px;
+}
+.box-accompagnement .box-content .logo{
+	background: transparent url('./accompagnement/img/logo-techoffice.png?1405415410') 0 0 no-repeat;
+	width: 169px;
+	height: 52px;
+	text-indent: -99999px;
+	margin: 20px auto;
+}
+.box-accompagnement .box-header h1.profile:before { 
+	font-family: 'icotechoffice'; 
+	content: "\e603"; 
+	position: relative; 
+	margin-right: 10px; 
+}
+.icon-question:before { 
+	content: "\e609"; 
+}
+
+.box-accompagnement button.next:after, .box-accompagnement a.next:after { 
+	font-family: 'icotechoffice'; 
+	content: "\e608"; 
+	margin-left: 5px; 
+	font-size: 14px; 
+	position: relative; 
+	top: 2px; 
+}
+.box-accompagnement button.previous:after, .box-accompagnement a.previous:after { 
+	font-family: 'icotechoffice'; 
+	content: "\e606"; 
+	font-size: 14px; 
+	position: relative; 
+}
